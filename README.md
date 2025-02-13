@@ -2,7 +2,9 @@
 
 > **Productivity Monitoring & Mobile Usage Control System**
 
-**HabiTrack** is an open-source project designed to boost personal productivity by integrating PC activity tracking with mobile usage management. By monitoring your active development time (e.g., in VSCode, IntelliJ) and correlating it with controlled mobile app usage, HabiTrack rewards consistent work with designated "free" phone time.
+![HabiTrack](https://socialify.git.ci/king04aman/habitrack/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark) 
+
+_**HabiTrack** is an open-source project designed to boost personal productivity by integrating PC activity tracking with mobile usage management. By monitoring your active development time (e.g., in VSCode, IntelliJ) and correlating it with controlled mobile app usage, HabiTrack rewards consistent work with designated "free" phone time._
 
 ## Table of Contents
 
